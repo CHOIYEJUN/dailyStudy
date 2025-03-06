@@ -9,6 +9,7 @@
 #### 3월
 - [3월 01일](2025년/3월/3월01일.md) : React19 알아보기1 - React Compiler
 - [3월 03일](2025년/3월/3월03일.md) : React19 알아보기2 - UseOptimistic
+- [3월 06일](2025년/3월/3월06일.md) : 다국어 처리 with react-i18next 
 
 
 #### 2월
